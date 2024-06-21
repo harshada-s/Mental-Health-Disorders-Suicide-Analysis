@@ -22,4 +22,4 @@ There are two datasets used in this project, both sourced from Kaggle.
 <p align="justify">
 In this project, I connected SQL Server to Tableau. Various SQL queries were used to manipulate and analyze the data. After importing the datafiles, the data was cleaned by filtering out non-relevant rows, removing special characters from strings, renaming columns and using appropriate data types. The suicide rates dataset originally contained individual columns for each year's rates. I applied an unpivot operation to consolidate these into a single 'year' column, resulting in each row representing the suicide rates for each country-year pair. This format aligns with the structure of the mental health dataset. Additionally, I used custom SQL queries in tableau to join various disorder tables. This disorder data was connected to suicide data using tableau relationships.
 
-Check Data folder for the data extract.</p>
+Check data folder for the data extract.</p>
