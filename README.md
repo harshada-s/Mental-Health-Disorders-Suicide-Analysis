@@ -7,6 +7,7 @@
 <br><b>Key Performance Indicators:</b> Displays average growth rates for disorders and suicide.
 
 link - https://harshada-s.github.io/Mental-Health-Disorders-Suicide-Analysis/
+<br>(View dashboard in full screen to see all the components.)
 </p>
 
 
